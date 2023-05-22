@@ -9,10 +9,11 @@ public class Car extends Vehicle implements Externalizable {
     private double speed;
     private transient int gear;
 
-    public Car() {
+    public Car(){
+
     }
 
-    public Car(String colour, double speed, int gear) {
+    public Car(String colour, double speed) {
         super(colour);
         this.speed = speed;
     }
@@ -52,9 +53,9 @@ public class Car extends Vehicle implements Externalizable {
     @Override
     public String toString() {
         return "Car{" +
-                "Colour+ " + getColour() +
+                "Colour= " + getColour() + " " +
                 "speed= " + speed +
-                ", gear= " + gear +
+                " gear= " + gear +
                 '}';
     }
 }
