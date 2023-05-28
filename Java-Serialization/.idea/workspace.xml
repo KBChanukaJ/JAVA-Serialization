@@ -34,7 +34,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "G:/Project/Repo/JAVA-Serialization/JavaRMI",
+    "last_opened_file_path": "G:/Project/Practice/Book-Store-Managment-main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +54,8 @@
       <updated>1684742400929</updated>
       <workItem from="1684742401939" duration="7029000" />
       <workItem from="1684786095586" duration="991000" />
+      <workItem from="1684808451823" duration="41000" />
+      <workItem from="1684854614666" duration="91000" />
     </task>
     <servers />
   </component>
